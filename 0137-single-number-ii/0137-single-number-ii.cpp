@@ -10,6 +10,21 @@ public:
                 return nums[i];
             }
         }
-        return nums[nums.size()-1];
+        return nums[nums.size()-1]; //this is the edge case 
+
+
+        //other solution by  using map but t.c is o(n) and space complexity is o(n)
+        // unordered_map<int,int> map;
+
+        // for(int val:nums) {
+        //     map[val]++;
+        // }
+        // for(auto p:map) {
+        //     if(p.second==1) {
+        //         return p.first;
+        //     }
+        // }
+        // return -1;
+
     }
 };
