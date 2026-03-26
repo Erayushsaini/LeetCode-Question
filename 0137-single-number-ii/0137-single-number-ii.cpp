@@ -1,20 +1,31 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        //solution using the bit manupulation 
-        int ans=0;
-        for(int i=0;i<32;i++) {
-            int count=0;
-            for(int j=0;j<nums.size();j++) {
-                if(((nums[j]>>i)&1)==1) {
-                    count++;
-                }
-            }
-            if(count%3!=0) {
-                ans=ans|(1<<i);
-            }
+        //optimized solution using ones and twoes
+
+        int ones=0;
+        int twoes=0;
+
+        for(int val:nums) {
+            ones=(ones^val)& ~twoes;
+            twoes=(twoes^val)& ~ones;
         }
-        return ans;
+        return ones;
+        //solution using the bit manupulation
+        //here time complexity is O(32.n ) and s.c is o(1)
+        // int ans=0;
+        // for(int i=0;i<32;i++) {
+        //     int count=0;
+        //     for(int j=0;j<nums.size();j++) {
+        //         if(((nums[j]>>i)&1)==1) {
+        //             count++;
+        //         }
+        //     }
+        //     if(count%3!=0) {
+        //         ans=ans|(1<<i);
+        //     }
+        // }
+        // return ans;  // as in this ans came in the decimal but as use bitwise operator so working occur in binary so 2^2 came 00000 in binary but we got ans in decimal i.e is 0
 
 
 
