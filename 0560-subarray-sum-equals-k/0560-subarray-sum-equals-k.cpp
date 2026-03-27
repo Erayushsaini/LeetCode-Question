@@ -15,15 +15,19 @@ public:
             ps.push_back(sum);
         }
         unordered_map<int,int> map;
-        map.emplace(0,1);
+        map.emplace(0,1);//or instead we can do that we amke a if condition in the for loop that 
         for(int i=0;i<nums.size();i++) {
+            //if(ps[j]==k) {count++;}
             int PS=ps[i]-k;
 
             if(map.find(PS)!=map.end()) {
-                count=count+map[PS];
+                count=count+map[PS]; //also can write count+=map[PS];
 
             }
-            map[ps[i]]++;
+            //or also can intiate a quantity with 0
+            //if(map.find(PS)==map.end()) {map[PS]=0;}
+
+            map[ps[i]]++;//as here if a quantity not exist in the map here when add and ++ this will intiate first with 0 (default value of the int) and ++ in 0 is 1  
         }
         return count;
        
