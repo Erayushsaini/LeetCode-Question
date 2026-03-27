@@ -35,7 +35,7 @@ public:
                 int str=j+1;
                 int end=n-1;
                 while(str<end) {
-                    long long sum=(long long)nums[i]+(long long)nums[j]+(long long)nums[str]+(long long)nums[end];
+                    long long sum=(long long)nums[i]+(long long)nums[j]+(long long)nums[str]+(long long)nums[end];  //as can be large value of the sum so we store in the long long 
                     if(sum>target) {
                         end--;
                     }else if(sum<target) {
@@ -45,10 +45,9 @@ public:
                         str++;
                         end--;
                         while(str<end && nums[str]==nums[str-1]) {str++;}
-                        while(str<end && nums[end]==nums[end+1]) {end--;}
+                        // while(str<end && nums[end]==nums[end+1]) {end--;}
                     }
                 }
-
             }
         } 
         return ans;
