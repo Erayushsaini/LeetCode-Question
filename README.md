@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0137-single-number-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0704-binary-search) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,9 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0704-binary-search) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0090-subsets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
