@@ -1,28 +1,32 @@
 class Solution {
 public:
-
     long long countSubarrays(vector<int>& nums, long long k) {
-        long long sum = 0;
-        long long ans = 0;
-        
-        int i = 0;
-        
-        for (int j = 0; j < nums.size(); j++) {
-            sum += nums[j];
-            
-            // shrink window until valid
-            while (sum * (j - i + 1) >= k) {
-                sum -= nums[i];
-                i++;
+
+        long long count=0;
+        long long currWinSum=0;
+
+        int i=0;
+        int j=0;
+
+        while(i<nums.size()) {
+            while(j<nums.size() &&( currWinSum + nums[j])*(j-i+1)<k) {
+                currWinSum+=nums[j];
+                j++;
             }
-            
-            // count valid subarrays ending at j
-            ans += (j - i + 1);
+            currWinSum-=nums[i];
+
+            count+=j-i;
+
+            i++;
+            if(i<nums.size() && j<nums.size() && i==j && nums[j]>k) {
+                i++;
+                j++;
+            }
         }
-        
-        return ans;
-    }
-};
+        return count;
+
+
+
         //this is o(n^2) approach gives the tle
         // long long count=0;
         // for(int i=0;i<nums.size();i++) {
@@ -38,3 +42,5 @@ public:
         //     }
         // }
         // return count;
+    }
+};
