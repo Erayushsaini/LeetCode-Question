@@ -1,22 +1,37 @@
 class Solution {
 public:
 
-    void getpermute(vector<vector<int>> &ans,int idx,vector<int> &nums) {
-        if(idx==nums.size()) {
-            ans.push_back(nums);
+
+    void getans(vector<vector<int>>& result,vector<int>& ans , vector<bool>& used,vector<int>& nums) {
+        if(ans.size()==nums.size()) {
+            result.push_back(ans);
             return;
         }
 
-        for(int i=idx;i<nums.size();i++) {
-            swap(nums[i],nums[idx]);
-            getpermute(ans,idx+1,nums);
-            swap(nums[i],nums[idx]);
+        for(int i=0 ;i<nums.size();i++) {
+            if(used[i]) {
+                continue;
+            }
+
+            used[i]=true;
+            ans.push_back(nums[i]);
+
+            getans(result,ans,used,nums);
+
+            ans.pop_back();
+
+            used[i]=false;
         }
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans;
-        getpermute(ans,0,nums);
-        return ans;
+        vector<vector<int>> result;
+        vector<int> ans;
+        vector<bool> used(nums.size(),false);
+
+        getans(result,ans,used,nums);
+
+        return result;
+
     }
 };
