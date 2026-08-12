@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0051-n-queens) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0037-sudoku-solver) |
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0051-n-queens) |
@@ -86,6 +89,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0052-n-queens-ii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
