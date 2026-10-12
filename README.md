@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0704-binary-search) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0037-sudoku-solver) |
+| [2965-find-missing-and-repeated-values](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2965-find-missing-and-repeated-values) |
 ## Dancing Links
 |  |
 | ------- |
