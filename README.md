@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0704-binary-search) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
