@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0704-binary-search) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -147,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0852-peak-index-in-a-mountain-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
