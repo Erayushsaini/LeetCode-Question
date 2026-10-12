@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0704-binary-search) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
