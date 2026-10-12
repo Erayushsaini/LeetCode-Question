@@ -69,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Erayushsaini/LeetCode-Question/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
