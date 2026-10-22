@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0090-subsets-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0287-find-the-duplicate-number) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0169-majority-element) |
 ## Hash Table
@@ -177,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Erayushsaini/LeetCode-Question/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
